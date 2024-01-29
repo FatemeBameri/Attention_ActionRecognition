@@ -1,4 +1,4 @@
-# Attention_ActionRecognition
+# Attention_Action_Recognition
 Summary of related papers on vido attention for action recognition task. 
 ## Papers
 * Efficient dual attention SlowFast networks for video action recognition [pdf](https://www.sciencedirect.com/science/article/abs/pii/S1077314222000881)
